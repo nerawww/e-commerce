@@ -1,0 +1,88 @@
+[
+  {
+    "id": "4dca977d-aaf9-41fb-ab96-c631391ac869",
+    "name": "Shampoing Bio",
+    "category": "Produits de Soin Personnel",
+    "material": "100% ingrédients naturels",
+    "durability": "Longue durée de conservation",
+    "maintenance": "Utilisation quotidienne recommandée",
+    "design": "Emballage recyclable",
+    "origin": "Certifié bio par Ecocert"
+  },
+  {
+    "id": "efb79487-dda1-4ce4-baac-c2b03b090d2e",
+    "name": "Savon Bio",
+    "category": "Produits de Soin Personnel",
+    "material": "100% ingrédients naturels",
+    "durability": "Longue durée de conservation",
+    "maintenance": "Utilisation quotidienne recommandée",
+    "design": "Emballage recyclable",
+    "origin": "Certifié bio par Cosmebio"
+  },
+  {
+    "id": "d12263cb-01aa-4007-8773-e2539ddc9d95",
+    "name": "Vêtement en Coton Bio",
+    "category": "Vêtements et Accessoires",
+    "material": "100% coton bio",
+    "durability": "Résistant et durable",
+    "maintenance": "Lavable en machine",
+    "design": "Styles modernes et intemporels",
+    "origin": "Coton cultivé sans pesticides"
+  },
+  {
+    "id": "a805179c-4cca-45b8-8304-c343033fc6a7",
+    "name": "Chaussures Éco-responsables",
+    "category": "Vêtements et Accessoires",
+    "material": "Matériaux recyclés",
+    "durability": "Résistant et durable",
+    "maintenance": "Nettoyage facile",
+    "design": "Design moderne et confortable",
+    "origin": "Fabriqué à partir de matériaux recyclés"
+  },
+  {
+    "id": "a6762ef6-c79a-4a58-8898-caba9398214d",
+    "name": "Jouet en Bois",
+    "category": "Produits pour Enfants",
+    "material": "Bois naturel",
+    "durability": "Résistant et durable",
+    "maintenance": "Nettoyage facile",
+    "design": "Designs éducatifs et ludiques",
+    "origin": "Bois issu de forêts gérées de manière durable"
+  },
+  {
+    "id": "0bfec7f2-feea-4538-ba9e-a05e778c7e5e",
+    "name": "Couches Lavables",
+    "category": "Produits pour Enfants",
+    "material": "Coton bio et matériaux absorbants",
+    "durability": "Réutilisable",
+    "maintenance": "Lavable en machine",
+    "design": "Ajustables et faciles à utiliser",
+    "origin": "Fabriqué à partir de matériaux écologiques"
+  },
+  {
+    "id": "883c2266-1f26-446f-ba97-508aeeff8494",
+    "name": "Sac de Courses Réutilisable",
+    "category": "Articles de Maison",
+    "material": "Tissu recyclé",
+    "durability": "Résistant et durable",
+    "maintenance": "Lavable en machine",
+    "design": "Design pratique et pliant",
+    "origin": "Fabriqué à partir de matériaux recyclés"
+  },
+  {
+    "id": "da91bfe3-accb-4e0b-a22b-66fe77ef4d08",
+    "name": "Brosse à Dents en Bambou",
+    "category": "Produits de Soin Personnel",
+    "material": "Bambou et poils en nylon biodégradable",
+    "durability": "Résistant et durable",
+    "maintenance": "Remplacement recommandé tous les 3 mois",
+    "design": "Design ergonomique",
+    "origin": "Fabriqué à partir de bambou cultivé de manière durable",
+    "ratings": [
+      {
+        "username": "Edouardo",
+        "numericRating": 5
+      }
+    ]
+  }
+]

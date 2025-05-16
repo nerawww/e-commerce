@@ -1,0 +1,19 @@
+[
+  {
+    "username": "Tonio",
+    "password": "$2b$10$wzVt1eBqpEuu6WL2J9cfa.G5YE2iQtFt7GNEs7yEcxtrfQDHd0OA2"
+  },
+  {
+    "username": "Gustavo",
+    "password": "$2b$10$ruqQRpx3q6KXEONFaPuu7eXIHPNfqYZcxNyrLicDgCKERscKIs9Z6"
+  },
+  {
+    "username": "Laura",
+    "password": "$2b$10$JpkHbjIXTIb/RgmQjB53v.iPJY6b/cZfphkDjF85wLssMatYiz1q.",
+    "role": "admin"
+  },
+  {
+    "username": "Edouardo",
+    "password": "$2b$10$N0WeeK58InBdd1ZLJ.6n8eakMxz4Yrj4ujCtwLACSLfZIO.jOJw9u"
+  }
+]
